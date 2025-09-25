@@ -4,6 +4,8 @@ description: 'Seeing and Sensing: The Art and Practice of Precise Observation'
 file: /courses/15-974-leadership-lab-spring-2003/93fe3cabd4724cddccd6fedaa9f6b3c0_lecturenotes2.pdf
 file_size: 254575
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
