@@ -4,6 +4,8 @@ description: '[Course bibliography]'
 file: /courses/15-974-leadership-lab-spring-2003/5a6a2a270e2cda59d7361bad26f905ae_readingsnew.pdf
 file_size: 105141
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

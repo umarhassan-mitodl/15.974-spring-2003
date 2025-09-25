@@ -5,6 +5,8 @@ description: 'Press Release: Corporate Leadership and Social Responsibility Aliv
 file: /courses/15-974-leadership-lab-spring-2003/76f663874c27d9c938d9978fb34823c6_studentpressrelease.pdf
 file_size: 66978
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

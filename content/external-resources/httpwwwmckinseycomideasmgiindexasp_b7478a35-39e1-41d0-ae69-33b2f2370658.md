@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.mckinsey.com/ideas/mgi/index.asp
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: broken
 title: http://www.mckinsey.com/ideas/mgi/index.asp

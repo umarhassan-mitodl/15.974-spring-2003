@@ -4,6 +4,8 @@ description: Company Visit Feedback Letter
 file: /courses/15-974-leadership-lab-spring-2003/3c555d6bb9fa8c592c218cd61c5e4feb_assignment2.pdf
 file_size: 49923
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

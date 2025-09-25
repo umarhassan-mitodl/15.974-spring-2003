@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-974-leadership-lab-spring-2003/8894b320889cc456fddcbf55a9692fce_sengesmrjan2001.pdf
 file_size: 809187
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

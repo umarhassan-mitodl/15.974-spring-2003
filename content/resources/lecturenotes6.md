@@ -4,6 +4,8 @@ description: Prototyping Living Examples
 file: /courses/15-974-leadership-lab-spring-2003/2faa9bd583e30b16ef3c81809cb6da00_lecturenotes6.pdf
 file_size: 205071
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
