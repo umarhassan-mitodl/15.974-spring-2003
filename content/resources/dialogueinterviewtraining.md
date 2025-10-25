@@ -4,8 +4,6 @@ description: Dialogue Interviews
 file: /courses/15-974-leadership-lab-spring-2003/2f6cf33315d34e19d2f92606d2f5152a_dialogueinterviewtraining.pdf
 file_size: 216052
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

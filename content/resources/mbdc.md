@@ -5,8 +5,6 @@ description: 'Cradle-to-Cradle Design at Scale: Opportunities, Applications and 
 file: /courses/15-974-leadership-lab-spring-2003/beb407c02e55f0ff2d69a084e6f62fe1_mbdc.pdf
 file_size: 410490
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

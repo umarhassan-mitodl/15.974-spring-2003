@@ -4,8 +4,6 @@ description: Present Accomplishments
 file: /courses/15-974-leadership-lab-spring-2003/b39ad3a49c0e327226de3f743ecd70d2_lecturenotes7.pdf
 file_size: 184474
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

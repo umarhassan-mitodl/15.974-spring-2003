@@ -2,12 +2,10 @@
 content_type: external-resource
 external_url: http://www.benjerry.com/
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: unchecked
+status: valid
 title: www.benjerry.com
 uid: 8d99216f-feab-47f8-81f6-ec03c0599b92
-url_status_code: 403
+url_status_code: 200
 wayback_url: ''
 ---

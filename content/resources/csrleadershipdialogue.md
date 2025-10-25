@@ -4,8 +4,6 @@ description: Leadership Dialogue on Innovating CSR (Corporate Social Responsibil
 file: /courses/15-974-leadership-lab-spring-2003/98c13b4b002f32415e419f14ce442f7c_csrleadershipdialogue.pdf
 file_size: 43674
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
